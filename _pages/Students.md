@@ -4,7 +4,6 @@ title: "Students"
 excerpt: "Students"
 author_profile: true
 redirect_from: 
-  - /Students/
 ---
 
 {% include base_path %}
