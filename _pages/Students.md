@@ -4,8 +4,7 @@ title: "Students"
 excerpt: "Students"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /Students/
 ---
 I am looking forward to work with talented students and experienced research experts in the exciting fields of hardware acclerator for AI and AI-accelerated hardware designs.
 
