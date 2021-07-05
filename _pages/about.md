@@ -17,6 +17,7 @@ I am an Assistant Professor in the Department of Electrical Engineering at the U
 My research interests are in (1) analog/mixed-signal circuit, digital architecture and IoT system design for machine learning acceleration/distributed intelligence and (2) custom IC design automation with data-driven methods.
 
 **Perspective Students & PostDoc**
+
 I am actively recruiting talented Ph.D., Master's and undergraduate students. I am looking forward to working with you on the exciting research fields of hardware accelerators for AI and AI-accelerated hardware designs. Prospective students should have strong background and/or interest in IC design and machine learning. 
 
 I am also actively looking for experienced PostDocs to work with. Preferred expertise include hands-on experience with chip tape-out, AMS/digital circuit integration, independent research and student mentoring.
