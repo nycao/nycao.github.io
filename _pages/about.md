@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am an Assistant Professor in the Department of Electrical Engineering at the University of Notre Dame. Before joining ND, I worked as a research assocaite for IBM T.J. Watson for one year. I have been rewarded the Ph.D degree for "Integrated Circuit and Algorithm Design for Edge Intelligence" in 2020 at the Georgia Institute of Technology, where I was advised by Dr. Arijit Raychowdhury. Prior to my Ph.D., I had my Master's at Columbia University  in 2015 advised by Dr. Yannis Tsividis. I received my bachelar's degree from Shanghai Jiaotong Unviersity in 2013. 
 
 
-I am an Assistant Professor in the Department of Electrical Engineering at the University of Notre Dame. Before joining ND, I worked as a research assocaite for IBM T.J. Watson for one year. I have been rewarded the Ph.D degree for "Integrated Circuit and Algorithm Design for Edge Intelligence" in 2020 at the Georgia Institute of Technology, where I was advised by Dr. Arijit Raychowdhury. Prior to my Ph.D., I had my Master's at Columbia University  in 2015 advised by Dr. Yannis Tsividis. I received my bachelar's degree from Shanghai Jiaotong Unviersity in 2013. My works have been published/presented/reported by primary journals/conferences/press in various field of solid-state circuit design, microwave, industrial electronics and so on (ex. ISSCC, JSSC, TIE, IMS, CICC, TCAS-I and etc.)
+Research Interests
+======
+My research interests are in (1) analog/mixed-signal circuit, digital architecture and IoT system design for machine learning acceleration/distributed intelligence and (2) custom IC design automation with data-driven methods. My works have been published/presented/reported by primary journals/conferences/press in various field of solid-state circuit design, microwave, industrial electronics and so on (ex. ISSCC, JSSC, TIE, IMS, CICC, TCAS-I and etc.)
 
-
-**Research Interests:**
-My research interests are in (1) analog/mixed-signal circuit, digital architecture and IoT system design for machine learning acceleration/distributed intelligence and (2) custom IC design automation with data-driven methods.
-
-**Perspective Students & PostDoc:**
-I am actively recruiting talented Ph.D. (Fall 2021, Spring 2022, Fall 2022), Master's and undergraduate students. I am looking forward to working with you on the exciting research fields of hardware accelerators for AI and AI-accelerated hardware designs. Prospective students should have strong background and/or interest in IC design and machine learning. I am also actively looking for experienced PostDocs to work with. Preferred expertise include hands-on experience with chip tape-out, AMS/digital circuit integration, independent research and student mentoring. **Please email your up-to-date CV to _ncao at nd.edu_ .** Due to the heavy amount of applicants, the candidates who provide specific examples of how your expertise match my prior works will be under primary considerations. For example, __"I have designed a schematic-level 12b analog-to-digital converter, which will make me a terrific fit if I were to implement the ADC peripherals of the compute-in-memory module of the VLSI paper."__
+Perspective Students & PostDoc
+======
+I am actively recruiting talented Ph.D. Master's and undergraduate students and experienced PostDocs. I am looking forward to working with you on the exciting research fields of hardware accelerators for AI and AI-accelerated hardware designs. For details, please check [Students](https://nycao.github.io/Students/).
 
