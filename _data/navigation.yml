@@ -3,8 +3,8 @@ main:
   - title: "Students"
     url: /Students/
 
-  - title: "Publication"
-    url: /Publication/    
+  - title: "Publications"
+    url: /Publications/    
 
   - title: "Teaching"
     url: /Teaching/    
