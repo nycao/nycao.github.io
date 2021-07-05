@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Prospective Students & Postocdocs"
+title: "Students"
 excerpt: "Students"
 author_profile: true
 redirect_from: 
