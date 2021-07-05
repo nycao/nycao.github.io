@@ -14,5 +14,5 @@ Ningyuan works at the intersection of _analog/mixed-signal circuit design, digit
 
 Ningyuan published top-tier conference papers / journal papers in the field of solid-state circuit design, such as ISSCC, JSSC, CICC, TCAS-I/II, and other related field, such as IMS, TIE and so on. His works have been extensively supported by Semiconductor Research Cooperation (SRC), Department of Energy (DOE) and IBM T.J. Watson. His works have been extensively reported by EETimes, GaTECH News, Science Daily and so on.
 
-![Editing a markdown file for a talk](/images/motivation.png)
+![Editing a motivation file](/images/motivation.png)
 
