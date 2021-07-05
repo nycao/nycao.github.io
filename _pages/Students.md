@@ -6,6 +6,9 @@ author_profile: true
 redirect_from: 
   - /Students/
 ---
+
+{% include base_path %}
+
 I am looking forward to work with talented students and experienced research experts in the exciting fields of hardware acclerator for AI and AI-accelerated hardware designs.
 
 I am recruiting Ph.D. students and PostDocs for Fall 2021, Spring 2022 and Fall 2022. Expected expertise include: (1) analog/mixed-signal circuit designs of OpAmp, A/DAC, PLL and so on; (2) large end-to-end digital system design from verilog programming, logic synthesis, floor plan to place-n-route;  (3) hands-on experience with chip tape-out and testing. Knowledge of machine learning and experience with PyTorch programming are definitely plus, but IC design background is highly recommended for application. Beyond above requirements, PosdDoc will need additional expertise with independent research and student mentoring.
