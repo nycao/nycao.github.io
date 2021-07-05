@@ -5,8 +5,8 @@ permalink: /Publications/
 author_profile: true
 ---
 
-[1] F. Karimzadeh, N. Cao, B. Crafton, J. Romberg, and A. Raychowdhury, “A Hardware-Friendly Approach Towards Sparse Neural Networks Based on LFSR-Generated Pseudo-Random Sequences,” IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 68, no. 2, pp. 751–764, Feb. 2021, doi: 10.1109/TCSI.2020.3037028.
-[2] M. Gong, N. Cao, M. Chang, and A. Raychowdhury, “A 65nm Thermometer-Encoded Time/Charge-Based Compute-in-Memory Neural Network Accelerator at 0.735pJ/MAC and 0.41pJ/Update,” IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 68, no. 4, pp. 1408–1412, Apr. 2021, doi: 10.1109/TCSII.2020.3027801.
+* F. Karimzadeh, N. Cao, B. Crafton, J. Romberg, and A. Raychowdhury, [“A Hardware-Friendly Approach Towards Sparse Neural Networks Based on LFSR-Generated Pseudo-Random Sequences,”](https://ieeexplore.ieee.org/document/9264691) IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 68, no. 2, pp. 751–764, Feb. 2021, doi: 10.1109/TCSI.2020.3037028.
+* M. Gong, N. Cao, M. Chang, and A. Raychowdhury,[“A 65nm Thermometer-Encoded Time/Charge-Based Compute-in-Memory Neural Network Accelerator at 0.735pJ/MAC and 0.41pJ/Update,”] (https://ieeexplore.ieee.org/document/9210113) IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 68, no. 4, pp. 1408–1412, Apr. 2021, doi: 10.1109/TCSII.2020.3027801.
 [3] F. Karimzadeh, N. Cao, B. Crafton, J. Romberg, and A. Raychowdhury, “Hardware-Aware Pruning of DNNs using LFSR-Generated Pseudo-Random Indices,” in 2020 IEEE International Symposium on Circuits and Systems (ISCAS), Oct. 2020, pp. 1–5. doi: 10.1109/ISCAS45731.2020.9181101.
 [4] N. Cao, “Circuit and algorithm design to enable edge intelligence,” Jul. 2020, Accessed: Jul. 05, 2021. [Online]. Available: https://smartech.gatech.edu/handle/1853/63653
 [5] I. Yoon, N. Cao, A. Amaravati, and A. Raychowdhury, “A 55nm 50nJ/encode 13nJ/decode Homomorphic Encryption Crypto-Engine for IoT Nodes to Enable Secure Computation on Encrypted Data,” in 2019 IEEE Custom Integrated Circuits Conference (CICC), Apr. 2019, pp. 1–4. doi: 10.1109/CICC.2019.8780277.
