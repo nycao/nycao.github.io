@@ -9,7 +9,7 @@ Electronics
 =======
 Electronics is the field of study or engineering practice related to active electron devices including diodes and transistors. This is in contrast to the field of linear circuits, with which you are already familiar, dealing with passive elements such as resistors, capacitors, and inductors. Active electron devices are often combined in a monolithic integrated circuit (IC) with supporting passive linear components to form microelectronics. Diodes and transistors are characterized by nonlinear current-voltage relationships (V≠IZ) which enable very important functions including amplification, frequency translation, oscillation, and switching. These functions, combined with filtering (from linear circuits) provide the building blocks for all modern electronic components including computers, cell-phones, audio/video equipment, power converters, and much more. 
 
-![Editing a markdown file for a talk](/images/electronics.jpg)
+![Editing a markdown file for a talk](/images/electronics.png)
 
 Systems & Circuits for Machine Learning
 =======
