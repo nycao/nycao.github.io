@@ -9,6 +9,8 @@ redirect_from:
 ---
 I am an Assistant Professor in the Department of Electrical Engineering at the University of Notre Dame. Before joining ND, I worked as a research associate for IBM T.J. Watson for one year. I have been rewarded the Ph.D. degree for "Integrated Circuit and Algorithm Design for Edge Intelligence" in 2020 at the Georgia Institute of Technology, where I was advised by Dr. Arijit Raychowdhury. Prior to my Ph.D., I had my Master's at Columbia University in 2015 advised by Dr. Yannis Tsividis. I received my bachelor's degree from Shanghai Jiaotong University in 2013. 
 
+Updated CV please check [CV] (https://nycao.github.io)
+
 
 **Research Interests**：My research interests are in (1) analog/mixed-signal circuit, digital architecture, and IoT system design for machine learning acceleration/distributed intelligence and (2) custom IC design automation with data-driven methods. My works have been published/presented/reported by primary journals/conferences/press in various fields of solid-state circuit design, microwave, industrial electronics, and so on (ex. ISSCC, JSSC, TIE, IMS, CICC, TCAS-I and etc.)
 
