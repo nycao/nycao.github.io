@@ -4,7 +4,13 @@ title: "Publication"
 permalink: /Publications/
 author_profile: true
 ---
-
+* B. Cheng, J. Liu, M. Chang, Ningyuan Cao “Privacy-by-Sensing: Mixed-signal Circuit for Deferentially-Private Compressed-Sensing,” International Conference on Computer-Aided-Design (ICCAD). (in review)
+* Ningyuan Cao, B. Chatterjee, J. Liu, B. Cheng, M. Gong, M. Chang, S. Sen, A. Raychowdhury “A 65 nm Wireless Image SoC Supporting On-Chip DNN Optimization and RealTime Computation-Communication Trade-Off via Actor-Critical Neuro-Controller,” IEEE Journal of Solid-State Circuits, doi:10.1109/JSSC.2022.3159473.
+* S. Fan, S. Zhang, J. Liu Ningyuan Cao, J. Li, X. Guo and X. Zhang. “Power Converter Circuit Design Automation using Parallel Monte Carlo Tree Search,” in IEEE Transactions on Design Automation of Electronic Systems, 2022.
+* R. Saligram, W. Chakraborty Ningyuan Cao, Y. Cao, S. Data and A. Raychwodhury “Power Performance Analysis of Digital Standard Cells for 28 nm Bulk CMOS at Cryogenic Temperature Using BSIM Models,” in IEEE Journal on Exploratory Solid-State Computational Devices and Circuits, volume 7, number 2, pp. 193–200, IEEE, 2021.
+* S. Fan, Ningyuan Cao, X. Guo, S. Zhang, J. Li, and X. Zhang. “From specification to topology: Automatic power converter design via reinforcement learning,” in International Conference On Computer Aided Design (ICCAD), pp. 1–9, IEEE/ACM, 2021
+* Ningyuan Cao, Minxiang Gong, Muya Chang, Baibhab Chatterjee, Shreyas Sen and Arijit Raychowdhury. ”A 65nm Reconfigurable Image Processing Node Supporting Multiple Neural Networks, a Digitally-Adaptive Transceiver and a Mixed-Signal Actor-Critic Neuro-controller for Real-Time Computation-Communication Trade-off,” Symposia on VLSI Technology and Circuits (VLSI), 2020
+* F. Karimzadeh, N. Cao, B. Crafton, J. Romberg, and A. Raychowdhury, “A Hardware-Friendly Approach Towards Sparse Neural Networks Based on LFSR-Generated Pseudo-Random Sequences,” IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 68, no. 2, pp. 751–764, Feb. 2021, doi: 10.1109/TCSI.2020.3037028.
 * F. Karimzadeh, N. Cao, B. Crafton, J. Romberg, and A. Raychowdhury, “A Hardware-Friendly Approach Towards Sparse Neural Networks Based on LFSR-Generated Pseudo-Random Sequences,” IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 68, no. 2, pp. 751–764, Feb. 2021, doi: 10.1109/TCSI.2020.3037028.
 * M. Gong, N. Cao, M. Chang, and A. Raychowdhury,“A 65nm Thermometer-Encoded Time/Charge-Based Compute-in-Memory Neural Network Accelerator at 0.735pJ/MAC and 0.41pJ/Update,” IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 68, no. 4, pp. 1408–1412, Apr. 2021, doi: 10.1109/TCSII.2020.3027801.
 * F. Karimzadeh, N. Cao, B. Crafton, J. Romberg, and A. Raychowdhury, “Hardware-Aware Pruning of DNNs using LFSR-Generated Pseudo-Random Indices,” in 2020 IEEE International Symposium on Circuits and Systems (ISCAS), Oct. 2020, pp. 1–5. doi: 10.1109/ISCAS45731.2020.9181101.
